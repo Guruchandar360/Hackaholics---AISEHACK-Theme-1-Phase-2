@@ -1,8 +1,8 @@
 # Hackaholics---AISEHACK-Theme-1-Phase-2
-# 🌊 Flood Detection — AISEHack 2026 Phase 2
+# Flood Detection — AISEHack 2026 Phase 2
 
 > **ANRF - AISEHack - Phase 2 - Theme 1 - Flood Detection (IBM)**  
-> Team Midnight · Finalists
+> Team Hackaholics
 
 ---
 
@@ -46,6 +46,7 @@ The core challenge: **distinguishing active flood inundation from pre-existing p
 ## Approaches Explored
 
 ### Models
+(for each notebook this might vary)
 - UNet++ (EfficientNet-B4, ResNet-50)
 - DeepLabV3+ (ResNet-101)
 - _More experiments ongoing..._
