@@ -35,8 +35,8 @@ The core challenge: **distinguishing active flood inundation from pre-existing p
 
 ## Notebooks
 
-| # | Notebook | Approach | Score |
-|---|----------|----------|-------|
+| # | Notebook | Score |
+|---|----------|-------|
 | 1 | [notebook76d105b1fd (2).ipynb]|0.1795 |
 | 2 | [notebook4cbf76daf5 (1) (1).ipynb]|0.1810 |
 <!-- Add new notebooks here -->
