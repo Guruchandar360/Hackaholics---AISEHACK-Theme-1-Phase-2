@@ -37,7 +37,8 @@ The core challenge: **distinguishing active flood inundation from pre-existing p
 
 | # | Notebook | Approach | Score |
 |---|----------|----------|-------|
-| 1 | [notebook76d105b1fd (2).ipynb](notebook76d105b1fd%20(2).ipynb) | 3-model ensemble (UNet++ EffB4 + DLV3+ R101 + UNet++ R50), model soup, Dice-Focal loss, TTA, threshold sweep | 0.1795 |
+| 1 | [notebook76d105b1fd (2).ipynb]|0.1795 |
+| 2 | [notebook4cbf76daf5 (1) (1).ipynb]|0.1810 |
 <!-- Add new notebooks here -->
 <!-- | 2 | [notebook_name.ipynb](notebook_name.ipynb) | Description | 0.XX | -->
 
